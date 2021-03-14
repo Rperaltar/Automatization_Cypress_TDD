@@ -1,0 +1,29 @@
+{
+  "name": "bancoppelpyme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^5.5.0",
+    "cypress-cy-select": "^0.2.2",
+    "cypress-downloadfile": "^1.2.0",
+    "cypress-file-upload": "^4.1.1",
+    "cypress-xpath": "^1.6.1"
+  },
+  "devDependencies": {
+    "cypress-cucumber-preprocessor": "^4.0.0",
+    "cypress-dark": "^1.7.14",
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Roberto_Peralta@bitbucket.org/Roberto_Peralta/bancoppelpyme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Roberto_Peralta/bancoppelpyme#readme"
+}
