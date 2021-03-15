@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "cypress": "^5.5.0",
+    "cypress": "^6.2.1",
     "cypress-cy-select": "^0.2.2",
     "cypress-downloadfile": "^1.2.0",
     "cypress-file-upload": "^4.1.1",
